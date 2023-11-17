@@ -1,0 +1,22 @@
+table{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#header{
+    background-color: yellow;
+    height: 100px;
+    width: 15%;
+}
+#side{
+    background-color: red;
+    color: white;
+    height: 200px;
+}
+.content{
+    background-color: blue;
+    color: white;
+}
+#footer{
+    color: green;
+    height: 70px;
+}
